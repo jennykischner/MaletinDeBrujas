@@ -149,3 +149,25 @@
     z-index: 1;
     box-shadow: 5px 10px 100px black;
   }
+
+  #tarjeta11 {
+    transition: 0.2s;
+    transform: rotate(-8deg);
+    transition: 0.2s;
+  }
+  #tarjeta11:hover {
+    transform: scale(1.5);
+    z-index: 1;
+    box-shadow: 5px 10px 100px black;
+  }
+
+  #tarjeta12 {
+    transition: 0.2s;
+    transform: rotate(-8deg);
+    transition: 0.2s;
+  }
+  #tarjeta12:hover {
+    transform: scale(1.5);
+    z-index: 1;
+    box-shadow: 5px 10px 100px black;
+  }
